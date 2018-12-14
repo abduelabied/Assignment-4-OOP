@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1544792087 source:c:\users\dell\desktop\biology2\dna.cpp
+	<iostream>
+	<cstring>
+	"Sequence.cpp"
+	"DNA.h"
+	"RNA.h"
+	<fstream>
+
+1544793133 c:\users\dell\desktop\biology2\sequence.cpp
+	"Sequence.h"
+
+1544793133 c:\users\dell\desktop\biology2\sequence.h
+	<iostream>
+	<cstring>
+
+1544808143 c:\users\dell\desktop\biology2\dna.h
+	"Sequence.h"
+
+1544805706 source:c:\users\dell\desktop\biology2\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<vector>
+	"CodonsTable.h"
+	"RNA.h"
+
+1544808143 c:\users\dell\desktop\biology2\protein.h
+	"Sequence.h"
+
+1544792087 source:c:\users\dell\desktop\biology2\rna.cpp
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
+1544792087 c:\users\dell\desktop\biology2\rna.h
+	"Sequence.h"
+	"DNA.h"
+
+1544793133 source:c:\users\dell\desktop\biology2\sequence.cpp
+	"Sequence.h"
+
+1544808945 source:c:\users\dell\desktop\biology2\main.cpp
+	<iostream>
+	"DNA.cpp"
+	"RNA.cpp"
+	"CodonsTable.h"
+	"Protein.h"
+	<vector>
+
+1544792087 c:\users\dell\desktop\biology2\dna.cpp
+	<iostream>
+	<cstring>
+	"Sequence.cpp"
+	"DNA.h"
+	"RNA.h"
+	<fstream>
+
+1544808630 source:c:\users\dell\desktop\biology2\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+	<iostream>
+
+1544792345 c:\users\dell\desktop\biology2\codonstable.h
+	<string>
+
+1544792345 source:c:\users\dell\desktop\biology2\codonstable.h
+	<string>
+
+1544808143 source:c:\users\dell\desktop\biology2\dna.h
+	"Sequence.h"
+
+1544808143 source:c:\users\dell\desktop\biology2\protein.h
+	"Sequence.h"
+
+1544792087 source:c:\users\dell\desktop\biology2\rna.h
+	"Sequence.h"
+	"DNA.h"
+
+1544793133 source:c:\users\dell\desktop\biology2\sequence.h
+	<iostream>
+	<cstring>
+
+1544792087 c:\users\dell\desktop\biology2\rna.cpp
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
+1544812540 source:c:\users\ag\desktop\biology2\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+	<iostream>
+
+1544812385 c:\users\ag\desktop\biology2\codonstable.h
+	<string>
+
+1544812385 source:c:\users\ag\desktop\biology2\codonstable.h
+	<string>
+
+1544812749 source:c:\users\ag\desktop\biology2\dna.cpp
+	<iostream>
+	<cstring>
+	"Sequence.cpp"
+	"DNA.h"
+	"RNA.h"
+	<fstream>
+
+1544812838 c:\users\ag\desktop\biology2\sequence.cpp
+	"Sequence.h"
+
+1544812386 c:\users\ag\desktop\biology2\sequence.h
+	<iostream>
+	<cstring>
+
+1544812539 c:\users\ag\desktop\biology2\dna.h
+	"Sequence.h"
+
+1544812687 c:\users\ag\desktop\biology2\rna.h
+	"Sequence.h"
+	"DNA.h"
+
+1544812539 source:c:\users\ag\desktop\biology2\dna.h
+	"Sequence.h"
+
+1544812633 source:c:\users\ag\desktop\biology2\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<vector>
+	"CodonsTable.h"
+	"RNA.h"
+
+1544812665 c:\users\ag\desktop\biology2\protein.h
+	"Sequence.h"
+
+1544812665 source:c:\users\ag\desktop\biology2\protein.h
+	"Sequence.h"
+
+1544812804 source:c:\users\ag\desktop\biology2\rna.cpp
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
+1544812687 source:c:\users\ag\desktop\biology2\rna.h
+	"Sequence.h"
+	"DNA.h"
+
+1544812838 source:c:\users\ag\desktop\biology2\sequence.cpp
+	"Sequence.h"
+
+1544812386 source:c:\users\ag\desktop\biology2\sequence.h
+	<iostream>
+	<cstring>
+
+1544810511 source:c:\users\ag\desktop\biology2\main.cpp
+	<iostream>
+	"DNA.cpp"
+	"RNA.cpp"
+	"CodonsTable.h"
+	"Protein.h"
+	<vector>
+
+1544792088 c:\users\ag\desktop\biology2\dna.cpp
+	<iostream>
+	<cstring>
+	"Sequence.cpp"
+	"DNA.h"
+	"RNA.h"
+	<fstream>
+
+1544792088 c:\users\ag\desktop\biology2\rna.cpp
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
